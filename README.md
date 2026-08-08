@@ -194,7 +194,7 @@ E-Commerce-Sales-Analysis/
 
 (
 Dashboard.png)
-https://github.com/ramyamercy64-yash/Power-BI_Project/blob/main/Dashboard.png
+
 ---
 
 ## 💡 Future Enhancements
